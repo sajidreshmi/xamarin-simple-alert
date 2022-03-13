@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EeGTfl8Vm65vLrQuAS3+fV1ZBotbpTx6o7CuG3sqUuE0WgMUcJLgdolBMyp2sE4ewIQnEhd1yuBrFopANfohlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sajid\\Xamarin\\source\\repos\\SimpleAlert\\SimpleAlert\\SimpleAlert.iOS\\SimpleAlert.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sajid\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\sajid\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\sajid\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sajid\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\sajid\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

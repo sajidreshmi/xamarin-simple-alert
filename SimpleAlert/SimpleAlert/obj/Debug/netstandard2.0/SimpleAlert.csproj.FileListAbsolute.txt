@@ -1,0 +1,15 @@
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\bin\Debug\netstandard2.0\SimpleAlert.deps.json
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\bin\Debug\netstandard2.0\SimpleAlert.dll
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\bin\Debug\netstandard2.0\SimpleAlert.pdb
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\SimpleAlert.csproj.AssemblyReference.cache
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\SimpleAlert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\SimpleAlert.AssemblyInfoInputs.cache
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\SimpleAlert.AssemblyInfo.cs
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\SimpleAlert.csproj.CoreCompileInputs.cache
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\SimpleAlert.dll
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\refint\SimpleAlert.dll
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\SimpleAlert.pdb
+C:\Users\sajid\Xamarin\source\repos\SimpleAlert\SimpleAlert\SimpleAlert\obj\Debug\netstandard2.0\ref\SimpleAlert.dll
